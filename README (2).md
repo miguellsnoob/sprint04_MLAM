@@ -1,8 +1,14 @@
-# 🧾 Projeto: Classificação de Eficiência Energética (Renewable Energy Dataset)
+# **SPRINT 4 | Modelagem Linear para Aprendizado de Máquina**
 
-## 👨‍💻 Integrante
-**Miguel Lima da Silva**  
-**RM:** 565141  
+# 🧾 Projeto: Classificação de Eficiência Energética (Renewable Energy Dataset)
+ 
+### **Colaboradores**
+
+*   Lucas Alves Antunes Almeida | RM: 566362
+*   Lucas Werpp Franco | RM: 556044
+*   Lucca Rosseto Rezende | RM: 564180
+*   Massayoshi Bando Fogaça e Silva | RM: 561779
+*   Miguel Lima da Silva | RM: 565141
 
 ---
 
